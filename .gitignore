@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 __pycache__/
 .venv/
 env/
 .env
 *.pyc
+=======
+__pycache__/
+.venv/
+env/
+.env
+*.pyc
+>>>>>>> ea4f40f93c07e0fb57db88bb5ef5d7e646079b4e
 .streamlit/
